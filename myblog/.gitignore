@@ -1,0 +1,22 @@
+# Virtual Environment
+venv/
+
+# Environment variables
+.env
+
+# Database file
+db.sqlite3
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Static files
+/static/
+
+# Media files
+/media/
+
+# AI Index files
+*.faiss
+*.pkl
